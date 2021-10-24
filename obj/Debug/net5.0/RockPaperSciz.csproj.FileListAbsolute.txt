@@ -1,0 +1,16 @@
+C:\Users\sfenn\source\codeworks\RockPaperSciz\bin\Debug\net5.0\RockPaperSciz.exe
+C:\Users\sfenn\source\codeworks\RockPaperSciz\bin\Debug\net5.0\RockPaperSciz.deps.json
+C:\Users\sfenn\source\codeworks\RockPaperSciz\bin\Debug\net5.0\RockPaperSciz.runtimeconfig.json
+C:\Users\sfenn\source\codeworks\RockPaperSciz\bin\Debug\net5.0\RockPaperSciz.runtimeconfig.dev.json
+C:\Users\sfenn\source\codeworks\RockPaperSciz\bin\Debug\net5.0\RockPaperSciz.dll
+C:\Users\sfenn\source\codeworks\RockPaperSciz\bin\Debug\net5.0\ref\RockPaperSciz.dll
+C:\Users\sfenn\source\codeworks\RockPaperSciz\bin\Debug\net5.0\RockPaperSciz.pdb
+C:\Users\sfenn\source\codeworks\RockPaperSciz\obj\Debug\net5.0\RockPaperSciz.csproj.AssemblyReference.cache
+C:\Users\sfenn\source\codeworks\RockPaperSciz\obj\Debug\net5.0\RockPaperSciz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sfenn\source\codeworks\RockPaperSciz\obj\Debug\net5.0\RockPaperSciz.AssemblyInfoInputs.cache
+C:\Users\sfenn\source\codeworks\RockPaperSciz\obj\Debug\net5.0\RockPaperSciz.AssemblyInfo.cs
+C:\Users\sfenn\source\codeworks\RockPaperSciz\obj\Debug\net5.0\RockPaperSciz.csproj.CoreCompileInputs.cache
+C:\Users\sfenn\source\codeworks\RockPaperSciz\obj\Debug\net5.0\RockPaperSciz.dll
+C:\Users\sfenn\source\codeworks\RockPaperSciz\obj\Debug\net5.0\ref\RockPaperSciz.dll
+C:\Users\sfenn\source\codeworks\RockPaperSciz\obj\Debug\net5.0\RockPaperSciz.pdb
+C:\Users\sfenn\source\codeworks\RockPaperSciz\obj\Debug\net5.0\RockPaperSciz.genruntimeconfig.cache
